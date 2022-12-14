@@ -12,5 +12,5 @@ Solution:
 1. Edit `/etc/modprobe.d/alsa-base.conf`.
 2. Add `options snd-hda-intel index=1,0 model=auto,dell-headset-multi`.
 3. Reboot
-Reference: https://bbs.archlinux.org/viewtopic.php?id=279083
 
+Reference: https://bbs.archlinux.org/viewtopic.php?id=279083
