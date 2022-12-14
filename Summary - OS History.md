@@ -5,8 +5,3 @@ SORT file.end_date DESC
 WHERE startswith(file.name, "OS")
 ```
 
-
-
-
-
-

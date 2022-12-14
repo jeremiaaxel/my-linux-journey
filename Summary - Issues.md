@@ -5,18 +5,3 @@ SORT file.date DESC
 WHERE !startswith(file.name, "TEMPLATE")
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
